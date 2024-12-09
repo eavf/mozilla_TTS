@@ -130,3 +130,5 @@ TODO.txt
 data/*
 notebooks/data/*
 TTS/tts/layers/glow_tts/monotonic_align/core.c
+filtered_common_voice/*
+HF_cache/*
